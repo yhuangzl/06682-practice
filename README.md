@@ -1,2 +1,2 @@
-# 06682-project
-CMU course 06682 final project
+# 06682-practice
+CMU course 06682 practice
